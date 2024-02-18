@@ -1,0 +1,6 @@
+@EComercio.ProductAPI_HostAddress = http://localhost:5184
+
+GET {{EComercio.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
